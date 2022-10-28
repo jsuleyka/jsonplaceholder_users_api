@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jsonplaceholder_users_api/static/css/main.c102df6e.css",
+    "main.js": "/jsonplaceholder_users_api/static/js/main.f3901683.js",
+    "index.html": "/jsonplaceholder_users_api/index.html",
+    "main.c102df6e.css.map": "/jsonplaceholder_users_api/static/css/main.c102df6e.css.map",
+    "main.f3901683.js.map": "/jsonplaceholder_users_api/static/js/main.f3901683.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c102df6e.css",
+    "static/js/main.f3901683.js"
+  ]
+}
